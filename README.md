@@ -1,0 +1,4 @@
+JQueryPanelSwipe
+================
+
+Panel and swipe
